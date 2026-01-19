@@ -1,0 +1,8 @@
+langchain
+requests
+Pillow
+pytesseract
+langchain
+requests
+Pillow
+pytesseract
